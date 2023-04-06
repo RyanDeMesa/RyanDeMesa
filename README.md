@@ -1,6 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)
-<h1 align="center">Hello 👋, I'm Ryan De Mesa</h1>
-<h3 align="center">A Full-stack Developer</h3>
+<h1 align="center">Hello I'm Ryan!⚡️</h1>
+<h3 align="center">I'm Full-stack Web Developer Who Loves Javascript And React!</h3>
 
 
 - 🌱 I’m currently learning **TypeScript**
