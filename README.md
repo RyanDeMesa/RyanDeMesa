@@ -17,6 +17,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanDeMesa&show_icons=true&theme=radical)
 
-(*P.S These stats do not indicate my full knowlegde in languages and frameworks it just shows which ones I have commited most in GitHub*)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDeMesa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+(*P.S These stats do not indicate my full knowlegde in languages and frameworks it just shows which ones I have commited most in GitHub*)
