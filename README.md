@@ -18,4 +18,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDeMesa&compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true?)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDeMesa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-(*P.S These stats do not indicate my full knowlegde in languages and frameworks it just shows which ones I have commited most in GitHub*)
+(*P.S These stats do not indicate my full knowlegde of languages and frameworks it just shows which ones I have commited most in GitHub*)
