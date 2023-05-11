@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- ⚡ Fun fact **I have so many hobbies I'm always trying something new**
+- ⚡ Fun fact **I have so many hobbies I'm always trying something new!**
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TableBreaker#4470) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RyanDeMesaa) 
