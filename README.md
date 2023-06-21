@@ -1,6 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif)
 <h1 align="center">Hello I'm Ryan!⚡️</h1>
-<h3 align="center">I'm Full-stack Web Developer Who Enjoys Javascript And React!</h3>
+<h3 align="center">I'm Full-stack Web Developer</h3>
 
 
 - 🌱 I’m currently learning **TypeScript**
